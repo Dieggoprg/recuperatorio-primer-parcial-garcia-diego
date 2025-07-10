@@ -1,6 +1,4 @@
-header,
-footer,
-.navbar {
+header,footer, .navbar {
   background-color: #0d6efd;
 }
 
@@ -9,7 +7,6 @@ footer,
   color: #ffffff;
 }
 
-h2,
-h3 {
+h2,h3 {
   color: #0d6efd;
 }
